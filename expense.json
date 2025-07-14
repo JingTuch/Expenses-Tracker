@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Groceries",
+    "amount": 1500.0,
+    "date": "2025-07-01",
+    "category": "Food"
+  },
+  {
+    "description": "Internet Bill",
+    "amount": 999.0,
+    "date": "2025-07-03",
+    "category": "Utilities"
+  },
+  {
+    "description": "Gasoline",
+    "amount": 1200.5,
+    "date": "2025-06-29",
+    "category": "Transport"
+  },
+  {
+    "description": "Movie",
+    "amount": 300.0,
+    "date": "2025-07-05",
+    "category": "Entertainment"
+  }
+]
